@@ -1,0 +1,504 @@
+COMPANY,SHIP NAME,EMAIL
+HMM,HMM PROMISE,hpromise@hmms.co.kr
+HMM,HMM BLESSING,hblessing@hmms.co.kr
+KLCSM,ADONIS,adonis@sea-one.com
+KLCSM,GLOBAL BRAVE,globalbrave@sea-one.com
+KLCSM,GLOBAL FRONTIER,globalfrontier@sea-one.com
+KLCSM,GLOBAL GENESIS,globalgenesis@sea-one.com
+KLCSM,GLOBAL HOPE,globalhope@sea-one.com
+KLCSM,K.ACACIA,acacia@sea-one.com
+KLCSM,K.ASIAN BEAUTY,kasb@sea-one.com
+KLCSM,K.ASTER,k.aster@sea-one.com
+KLCSM,K.DAPHNE,k.daphne@sea-one.com
+KLCSM,K.FREESIA,freesia@sea-one.com
+KLCSM,K.JASMINE,jasmine@sea-one.com
+KLCSM,K.MUGUNGWHA,mugungwha@sea-one.com
+KLCSM,LAVENDER,lavender@sea-one.com
+KLCSM,ROSEMARY,rosemary@sea-one.com
+KLCSM,SM CHALLENGER,smchallenger@sea-one.com
+KLCSM,SM DIAMOND,smdiamond@sea-one.com
+KLCSM,SM DONGHAE,smdonghae2@sea-one.com
+KLCSM,SM DONGHAE 2,smdonghae@sea-one.com
+KLCSM,SM DRAGON,smdragon@sea-one.com
+KLCSM,SM EAGLE,eagle@sea-one.com
+KLCSM,SM EMERALD,smemerald@sea-one.com
+KLCSM,SM FALCON,smfalcon@sea-one.com
+KLCSM,SM GEMINI 1,smgemini1@sea-one.com
+KLCSM,SM GEMINI2,smgemini2@sea-one.com
+KLCSM,SM HARMONY1,smharmony1@sea-one.com
+KLCSM,SM HARMONY2,smharmony2@sea-one.com
+KLCSM,SM HEDLAND,smhedland@sea-one.com
+KLCSM,SM JEJU LNG1,smjejulng1@sea-one.com
+KLCSM,SM JEJU LNG2,smjejulng2@sea-one.com
+KLCSM,SM LION,smlion@sea-one.com
+KLCSM,SM NAVIGATOR,smnavigator@sea-one.com
+KLCSM,SM NEWORLEANS,smneworleans@sea-one.com
+KLCSM,SM OSPREY,smosprey@sea-one.com
+KLCSM,SM PUMA,smpuma@sea-one.com
+KLCSM,SM ROBERTS BANK,smrobertsbank@sea-one.com
+KLCSM,SM SAMCHEONPO,smsamcheonpo@sea-one.com
+KLCSM,SM SANTOS,smsantos@sea-one.com
+KLCSM,SM SEAHAWK,seahawk@sea-one.com
+KLCSM,SM TIGER,smtiger@sea-one.com
+KLCSM,SM VENUS1,smvenus1@sea-one.com
+KLCSM,SM VENUS2,smvenus2@sea-one.com
+KLCSM,SM VISION,smvision@sea-one.com
+KLCSM,SM WHITE WHALE 1,smwhitewhale1@sea-one.com
+KLCSM,SM WHITE WHALE 2,smwhitewhale2@sea-one.com
+KLCSM,WHITE ROSE,whiterose@sea-one.com
+KSM,NOEL,noel@sea-one.com
+KSM,DAEWOO DIAMOND,daewoodiamond@sea-one.com
+KSM,CS ONSAN,csonsan@sea-one.com
+KSM,SEA CRYSTAL,3fbd4@sea-one.com
+KSS해운,GAS QUANTUM,gtqu@kssfleet.com
+KSS해운,GAS UTOPIA,gtut@kssfleet.com
+KSS해운,GAS VENUS,gtve@kssfleet.com
+KSS해운,GAS YOUNG,gtyo@kssfleet.com
+KSS해운,GAS ZENITH,gtze@kssfleet.com
+KSS해운,GAS GABRIELA,gtgb@kssfleet.com
+KSS해운,GAS GALA,gtgl@kssfleet.com
+KSS해운,GAS GHAZI,gtgh@kssfleet.com
+KSS해운,GAS JUSTESEN,gtju@kssfleet.com
+KSS해운,GAS FRIEND,gtfr@kssfleet.com
+KSS해운,GAS POWER,gtpo@kssfleet.com
+KSS해운,GAS STAR,gtst@kssfleet.com
+KSS해운,GAS SUMMIT,gtsu@kssfleet.com
+KSS해운,GAS WISDOM,gtwi@kssfleet.com
+KSS해운,GAS ARES,gtar@kssfleet.com
+KSS해운,GAS BARBAROSSA,gtba@kssfleet.com
+KSS해운,GAS IVORY,gtiv@kssfleet.com
+KSS해운,GAS KAISERIN,gtka@kssfleet.com
+KSS해운,HARMONY CHEMIST,cthc@kssfleet.com
+KSS해운,SAVONETTA SUN,ctss@kssfleet.com
+KSS해운,JOY CHEMIST,ctjc@kssfleet.com
+KSS해운,LUCKY CHEMIST,ctlc@kssfleet.com
+NJSM,JN IRIS,jniris@sea-one.com
+NJSM,JN CAMELLIA,jncamellia@sea-one.com
+NJSM,JN EMERALD,jnemerald@sea-one.com
+NJSM,JN NEPTUNE,jnneptune@sea-one.com
+PANBULK,RIPLEY PIONEER,rpioneer@sunavfleet.com
+PANBULK,RIPLEY PROSPERITY,rprosperity@sunavfleet.com
+PANBULK,RIPLEY PRIDE,rpride@sunavfleet.com
+PANBULK,RIPLEY PROGRESS,master.ripleyprogress@stationsatcommail.com
+POLARIS,POLAR ACE,POLARACE@polaris-ship.com
+POLARIS,POLAR BRIGHT,POLARBRIGHT@polaris-ship.com
+POLARIS,SAO DIANA,SAODIANA@polaris-ship.com
+POLARIS,SAO EBBA,SAOEBBA@polaris-ship.com
+POLARIS,SAO FABIAN,SAOFABIAN@polaris-ship.com
+POLARIS,SAO GRACE,SAOGRACE@polaris-ship.com
+POLARIS,SAO HEAVEN,SAOHEAVEN@polaris-ship.com
+POLARIS,SAO INDIGO,SAOINDIGO@polaris-ship.com
+POLARIS,SAO JOY,SAOJOY@polaris-ship.com
+POLARIS,SAO KAREN,SAOKAREN@polaris-ship.com
+POLARIS,SAO QUIXOTE,SAOQUIXOTE@polaris-ship.com
+POLARIS,SAO ROSE OF SHARON,SAOROSEOFSHARON@polaris-ship.com
+POLARIS,SAO SABIA,SAOSABIA@polaris-ship.com
+POLARIS,SAO TITAN,SAOTITAN@polaris-ship.com
+POLARIS,SAO UNISON,SAOUNISON@polaris-ship.com
+POLARIS,SOLAR DOLPHIN,SOLARDOLPHIN@polaris-ship.com
+POLARIS,SOLAR FRONTIER,SOLARFRONTIER@polaris-ship.com
+POLARIS,SOLAR GLORY,SOLARGLORY@polaris-ship.com
+POLARIS,SOLAR HOPE,SOLARHOPE@polaris-ship.com
+POLARIS,SOLAR ICON,SOLARICON@polaris-ship.com
+POLARIS,SOLAR LEGEND,SOLARLEGEND@polaris-ship.com
+,,service@vessellink.com
+POLARIS,SOLAR MAJESTY,SOLARMAJESTY@polaris-ship.com
+POLARIS,SOLAR NOVA,SOLARNOVA@polaris-ship.com
+POLARIS,SOLAR OAK,SOLAROAK@polaris-ship.com
+POLARIS,SOLAR PRIDE,SOLARPRIDE@polaris-ship.com
+POLARIS,SOLAR QUANTUM,SOLARQUANTUM@polaris-ship.com
+POLARIS,STELLAR ACE,STELLARACE@polaris-ship.com
+POLARIS,STELLAR CROWN,STELLARCROWN@polaris-ship.com
+POLARIS,STELLAR VENTURE,STELLARVENTURE@polaris-ship.com
+POLARIS,STELLAR WAY,STELLARWAY@polaris-ship.com
+POLARIS,STELLAR YOUNG,STELLARYOUNG@polaris-ship.com
+POSSM,ARBORELLA,ARBORELLA@panocean.com
+POSSM,BRASSIANA,BRASSIANA@panocean.com
+POSSM,BUM SHIN,BUMSHIN@panocean.com
+POSSM,BUM YOUNG,BUMYOUNG@panocean.com
+POSSM,CITRIODORA,CITRIODORA@panocean.com
+POSSM,CS BREEZE,CSBREEZE@sea-one.com
+POSSM,CS CRANE,CSCRANE@sea-one.com
+POSSM,CS HANA,CSHANA@sea-one.com
+POSSM,CS SUMMER,CSSUMMER@sea-one.com
+POSSM,DELICATA,DELICATA@panocean.com
+POSSM,DUNNII,DUNNII@panocean.com
+POSSM,GRAND ACE1,GRANDACE1@panocean.com
+POSSM,GRAND ACE10,GRANDACE10@panocean.com
+POSSM,GRAND ACE11,GRANDACE11@panocean.com
+POSSM,GRAND ACE12,GRANDACE12@panocean.com
+POSSM,GRAND ACE5,GRANDACE5@panocean.com
+POSSM,GRAND ACE6,GRANDACE6@panocean.com
+POSSM,GRAND ACE9,GRANDACE9@panocean.com
+POSSM,GRAND AMBITION,GRANDAMBITION@panocean.com
+POSSM,GRAND BONANZA,GRANDBONANZA@panocean.com
+POSSM,GRAND WINNER 1,GRANDWINNER1@panocean.com
+POSSM,GRAND WINNER 2,GRANDWINNER2@panocean.com
+POSSM,GRAND WINNER 3,GRANDWINNER3@panocean.com
+POSSM,GRAND WINNER 5,GRANDWINNER5@panocean.com
+POSSM,GRANDIS,GRANDIS@panocean.com
+POSSM,HALOPHYLA,HALOPHYLA@panocean.com
+POSSM,HL MIDLAND,hlmidland@sea-one.com
+POSSM,LNG KOLT,LNGKOLT@panocean.com
+POSSM,NEW APEX,NEWAPEX@panocean.com
+POSSM,PAN ACACIA,PANACACIA@panocean.com
+POSSM,PAN ADVANCE,PANADVANCE@panocean.com
+POSSM,PAN AMBER,PANAMBER@panocean.com
+POSSM,PAN BICORN,PANBICORN@panocean.com
+POSSM,PAN BONA,PANBONA@panocean.com
+POSSM,PAN BONITA,PANBONITA@panocean.com
+POSSM,PAN CERES,PANCERES@panocean.com
+POSSM,PAN CHAMPION,PANCHAMPION@panocean.com
+POSSM,PAN CLOVER,PANCLOVER@panocean.com
+POSSM,PAN COSMOS,PANCOSMOS@panocean.com
+POSSM,PAN DANGJIN,PANDANGJIN@panocean.com
+POSSM,PAN DELIGHT,PANDELIGHT@panocean.com
+POSSM,PAN DREAM,PANDREAM@panocean.com
+POSSM,PAN ENERGEN,PANENERGEN@panocean.com
+POSSM,PAN EPIC,PANEPIC@panocean.com
+POSSM,PAN FALCON,PANFALCON@panocean.com
+POSSM,PAN FLOWER,PANFLOWER@panocean.com
+POSSM,PAN FORTUNE,PANFORTUNE@panocean.com
+POSSM,PAN FREEDOM,PANFREEDOM@panocean.com
+POSSM,PAN FREESIA,PANFREESIA@panocean.com
+POSSM,PAN GLOBAL,PANGLOBAL@panocean.com
+POSSM,PAN GRACE,PANGRACE@panocean.com
+POSSM,PAN HARVEST,PANHARVEST@panocean.com
+POSSM,PAN HOPE,PANHOPE@panocean.com
+POSSM,PAN HORIZON,PANHORIZON@panocean.com
+POSSM,PAN IMPERIAL,PANIMPERIAL@panocean.com
+POSSM,PAN IRIS,PANIRIS@panocean.com
+POSSM,PAN JOY,PANJOY@panocean.com
+POSSM,PAN KOMIPO,PANKOMIPO@panocean.com
+POSSM,PAN KRISTINE,PANKRISTINE@panocean.com
+POSSM,PAN MAJESTY,PANMAJESTY@panocean.com
+POSSM,PAN MARGARET,PANMARGARET@panocean.com
+POSSM,PAN MUTIARA,PANMUTIARA@panocean.com
+POSSM,PAN NAVIGATOR,PANNAVIGATOR@panocean.com
+POSSM,PAN NOVA,PANNOVA@panocean.com
+POSSM,PAN OPTIMUM,PANOPTIMUM@panocean.com
+POSSM,PAN POSEIDON,PANPOSEIDON@panocean.com
+POSSM,PAN QUEEN,PANQUEEN@panocean.com
+POSSM,PAN QUEST,PANQUEST@panocean.com
+POSSM,PAN RAPIDO,PANRAPIDO@panocean.com
+POSSM,PAN REGINA,PANREGINA@panocean.com
+POSSM,PAN TOPAZ,PANTOPAZ@panocean.com
+POSSM,PAN VIVA,PANVIVA@panocean.com
+POSSM,POS BANGKOK,POSBANGKOK@panocean.com
+POSSM,POS HOCHIMINH,POSHOCHIMINH@panocean.com
+POSSM,POS SHANGHAI,POSSHANGHAI@panocean.com
+POSSM,POS TOKYO,POSTOKYO@panocean.com
+POSSM,POS YOKOHAMA,POSYOKOHAMA@panocean.com
+POSSM,ROBUSTA,ROBUSTA@panocean.com
+POSSM,SALIGNA,SALIGNA@panocean.com
+POSSM,SEA BEIJING,SEABEIJING@panocean.com
+POSSM,SEA CAOFEIDIAN,SEACAOFEIDIAN@panocean.com
+POSSM,SEA ESPIRITO SANTO,SEAESPIRITOSANTO@panocean.com
+POSSM,SEA FUJIYAMA,SEAFUJIYAMA@panocean.com
+POSSM,SEA GUAIBA,SEAGUAIBA@panocean.com
+POSSM,SEA INDONESIA,SEAINDONESIA@panocean.com
+,,service@vessellink.com
+POSSM,SEA MARANHAO,SEAMARANHAO@panocean.com
+POSSM,SEA PONTA DA MADEIRA,SEAPONTADAMADEIRA@panocean.com
+POSSM,SEA QINGDAO,SEAQINGDAO@panocean.com
+POSSM,SEA RIO DE JANEIRO,SEARIODEJANEIRO@panocean.com
+POSSM,SEA SHANGHAI,SEASHANGHAI@panocean.com
+POSSM,SEA TUBARAO,SEATUBARAO@panocean.com
+POSSM,SEA VICTORIA,SEAVICTORIA@panocean.com
+POSSM,SEA ZHOUSHAN,SEAZHOUSHAN@panocean.com
+POSSM,SUN ORCHID,SUNORCHID@panocean.com
+POSSM,SUN RISE,SUNRISE@panocean.com
+POSSM,SUN SHINE,SUNSHINE@panocean.com
+POSSM,SUPER EASTERN,SUPEREASTERN@panocean.com
+POSSM,SUPER FORTE,SUPERFORTE@panocean.com
+POSSM,SUPER HERO,SUPERHERO@panocean.com
+POSSM,SUPER INFINITY,SUPERINFINITY@panocean.com
+POSSM,UROPHYLLA,UROPHYLLA@panocean.com
+POSSM,PAN ORION,panorion@panocean.com
+POSSM,PAN PEGASUS,panpegasus@panocean.com
+POSSM,PAN QUANTUM,PANQUANTUM@PANOCEAN.COM
+POSSM,POS QINGDAO,posqingdao@panocean.com
+POSSM,POS GUANGZHOU,posguangzhou@panocean.com
+POSSM,PAN GOLD,pangold@panocean.com
+POSSM,POS LAEMCHABANG,poslaemchabang@panocean.com
+POSSM,POS SINGAPORE,possingapore@panocean.com
+POSSM,PAN CONCORD,master.panconcord@fleetmail.inmarsat.com
+FMKL,PAN IVY,panivy@sea-one.com
+FMKL,PAN SPIRIT,pan-spirit@sea-one.com
+FMKL,PAN UNITY,panunity@panocean.com
+FMKL,PAN EMERALD,panemerald@panocean.com
+FMKL,GRAND ACE7,grandace7@panocean.com
+SN GLOBAL,SN OPAL,snopal@sea-one.com
+SN GLOBAL,SN SERENITY,snserenity@sea-one.com
+STX 마린서비스 ,ULTRA ALPHA,UTA@amosconnect.com
+STX 마린서비스 ,DL OLIVE,dlolive@bluewavemail.com
+STX 마린서비스 ,DL LAVENDER,dllavender@bluewavemail.com
+STX 마린서비스 ,DL ACACIA,dlacacia@sea-one.com
+STX 마린서비스 ,DL TULIP,dltulip@sea-one.com
+STX 마린서비스 ,DL MARIGOLD,dlmarigold@sea-one.com
+STX 마린서비스 ,DL ADONIS,dladonis@bluewavemail.com
+STX 마린서비스 ,DL JASMINE,dljasmine@sea-one.com
+STX 마린서비스 ,DL LILAC,dllilac@sea-one.com
+STX 마린서비스 ,DL PANSY,dlpansy@sea-one.com
+STX 마린서비스 ,INWANG,inwang@bluewavemail.com
+STX 마린서비스 ,DL DAHLIA,dldahlia@sea-one.com
+STX 마린서비스 ,MINERAL CHINA,mineralchina@sea-one.com
+STX 마린서비스 ,ORIENTAL STAR,orientalstar@sea-one.com
+STX 마린서비스 ,ORIENTAL FRONTIER,orientalfrontier@sea-one.com
+STX 마린서비스 ,ORIENTAL NAVIGATOR,orientalnavigator@sea-one.com
+STX 마린서비스 ,DONGBANG GIANT NO.8,dongbang.giant8@sea-one.com
+STX 마린서비스 ,DONGBANG GIANT NO.6,dongbang.giant6@sea-one.com
+STX 마린서비스 ,DONGBANG GIANT NO.3,dongbang-giant3@sea-one.com
+STX 마린서비스 ,DONGBANG GIANT NO.7,dongbang.giant7@sea-one.com
+STX 마린서비스 ,MEGA CARAVAN,megacaravan@megavessel.co.kr
+STX 마린서비스 ,MEGA CARAVAN 2,megacaravan2@megavessel.co.kr
+STX 마린서비스 ,ORIENTAL ENTERPRISE,orientalenterprise@sea-one.com
+STX 마린서비스 ,ORIENTAL LEADER,orientalleader@sea-one.com
+STX 마린서비스 ,SEA FUTURE,seafuture@sea-one.com
+STX 마린서비스 ,SEA HONESTY,seahonesty@sea-one.com
+STX 마린서비스 ,SHINSUNG CLEVER,s.clever@bluewavemail.com
+STX 마린서비스 ,CS GLORY,csglory@bluewavemail.com
+도리코,AH SHIN,asn@skyfile.com
+도리코,CRYSTAL OCEAN,cro@amosconnect.com
+도리코,G POSEIDON,gpo@sksat.kr
+도리코,GMT ASTRO,GMA@amosconnect.com
+도리코,HAE SHIN,hae@skyfile.com
+도리코,SANG SHIN,master.ssh@skyfile.com
+도리코,SEA COEN,sco@sksat.kr
+도리코,SEA GRACE,seagrace@sksat.kr
+도리코,SJ ASIA,sja@amosconnect.com
+도리코,SOO SHIN,master.son@skyfile.com
+도리코,YOUNG SHIN,ysh@skyfile.com
+도리코,CHANG SHIN,master.csh@skyfile.com
+리앤쉬핑,RABIGH SUNSHINE,r.sunshine@sea-one.com
+리앤쉬핑,BUENA CONFIANZA,b.confianza@sea-one.com
+범주해운,PANCON CHAMPION,pchm@panconship.co.kr
+범주해운,PANCON GLORY,pglo@panconship.co.kr
+범주해운,PANCON SUCCESS,psuc@panconship.co.kr
+범주해운,PANCON VICTORY,pvic@panconship.co.kr
+범주해운,PANCON SUNSHINE,psun@panconship.co.kr
+범주해운,PANCON HARMONY,phar@panconship.co.kr
+범주해운,PANCON BRIDGE,pbrg@panconship.co.kr
+시노코쉽매니지먼트,SAWASDEE SUNRISE,sawasdeesunrise@sea-one.com
+시노코쉽매니지먼트,OCEAN CARRIER,oceancarrier@sea-one.com
+시노코쉽매니지먼트,BALTIC WEST,balticwest@amosconnect.com
+시도상선,DREAM ANGEL,dran@vessel.cidoship.com
+시도상선,DREAM BEAUTY,drbe@vessel.cidoship.com
+시도상선,DREAM DIAMOND,drdi@vessel.cidoship.com
+시도상선,DREAM ORCHID,dror@vessel.cidoship.com
+시도상선,FORTUNE BELL,fobe@vessel.cidoship.com
+시도상선,FORTUNE TIGER,foti@vessel.cidoship.com
+시도상선,FORTUNE VIOLET,fovi@vessel.cidoship.com
+시도상선,FORTUNE WING,fowi@vessel.cidoship.com
+시도상선,GRAND AURORA,grau@vessel.cidoship.com
+시도상선,GRAND CHAMPION,grcp@vessel.cidoship.com
+시도상선,GRAND DAHLIA,grda@vessel.cidoship.com
+시도상선,GRAND DOLPHIN,grdo@vessel.cidoship.com
+시도상선,GRAND DUKE,grdu@vessel.cidoship.com
+시도상선,GRAND LEGACY,grle@vessel.cidoship.com
+시도상선,GRAND NEPTUNE,grne@vessel.cidoship.com
+시도상선,GRAND ORION,gror@vessel.cidoship.com
+시도상선,GRAND PAVO,grpv@vessel.cidoship.com
+시도상선,GOLD ESTRELLA,gest@vessel.cidoship.com
+시도상선,GRAND PHOENIX,grph@vessel.cidoship.com
+시도상선,GRAND VEGA,grvg@vessel.cidoship.com
+시도상선,GRAND VICTORY,grvi@vessel.cidoship.com
+,,service@vessellink.com
+시도상선,GREAT NAVIGATOR,gtna@vessel.cidoship.com
+시도상선,MODERN LINK,mrli@vessel.cidoship.com
+시도상선,DREAM JASMINE,drja@vessel.cidoship.com
+시도상선,GRAND CHOICE,grch@vessel.cidoship.com
+시도상선,GRAND COSMO,grco@vessel.cidoship.com
+시도상선,GRAND DIAMOND,grdi@vessel.cidoship.com
+시도상선,GRAND EAGLE,grea@vessel.cidoship.com
+시도상선,GRAND HERO,grhe@vessel.cidoship.com
+시도상선,GRAND MARK,grma@vessel.cidoship.com
+시도상선,GRAND MERCURY,grme@vessel.cidoship.com
+시도상선,GRAND QUEST,grqu@vessel.cidoship.com
+시도상선,GRAND RUBY,grru@vessel.cidoship.com
+시도상선,GRAND SAPPHIRE,grsa@vessel.cidoship.com
+시도상선,GRAND URANUS,grur@vessel.cidoship.com
+시도상선,GRAND VENUS,grve@vessel.cidoship.com
+시도상선,SPRING SKY,spsk@vessel.cidoship.com
+시도상선,SPRING WIND,spwi@vessel.cidoship.com
+시도상선,DREAM DIVA,drdv@vessel.cidoship.com
+시도상선,GRAND PACE,grpa@vessel.cidoship.com
+시도상선,GRAND PIONEER,grpi@vessel.cidoship.com
+시도상선,GRAND RACE,grra@vessel.cidoship.com
+신성해운,SHINSUNG BRIGHT,s.bright@sksat.kr
+신성해운,SHINSUNG ACCORD,s.accord@sksat.kr
+윌햄슨,NEW FRONTIER1,master.newfrontier1@ship.wilhelmsen.com
+윌햄슨,NEW FRONTIER2,master.newfrontier2@ship.wilhelmsen.com
+인터렉스 메가라인,MEGA TRUST,megatrust@sea-one.com
+인터렉스 메가라인,MEGA PASSION,megapassion@sea-one.com
+코린스타,KS ADONIS,ksad@sksat.kr
+코린스타,KS GRACE,ksgr@sksat.kr
+코린스타,POLARIS,polaris@sksat.kr
+코린스타,KS CAMELLIA,ksca@sksat.kr
+타이쿤쉬핑,FG ROTTERDAM,fgrotterdam@sea-one.com
+타이쿤쉬핑,JBU SAPPHIRE,jbusapphire@sea-one.com 
+타이쿤쉬핑,JBU OPAL,jbuopal@gtmailplus.com 
+타이쿤쉬핑,CARIBBEAN 1,caribbean@sea-one.com 
+타이쿤쉬핑,DS OCEAN,dsocean@sea-one.com 
+타이쿤쉬핑,DS COUGAR,dscougar@sea-one.com 
+타이쿤쉬핑,KOREA CHEMI,koreachemi@sea-one.com 
+타이쿤쉬핑,DM JADE,Dmjade@SkyFile.com 
+타이쿤쉬핑,DM EMERALD,dmemerald@sea-one.com
+타이쿤쉬핑,DM DRAGON,dmdragon@sea-one.com 
+타이쿤쉬핑,DM CONDOR,dmcondor@sea-one.com 
+타이쿤쉬핑,MEDIA,
+타이쿤쉬핑,DM BEATRICE,dmbeatrice@stationsatcommail.com
+타이쿤쉬핑,GOLDEN DENISE,goldendenise@sea-one.com 
+하나로해운,SEA EMPIRE,seaempire1@sksat.kr
+하나로해운,SEA OPAL,seaopal1@sksat.kr
+하나로해운,SEA HOPE,seahope1@sksat.kr
+하나로해운,SEA DIAMOND,seadiamond1@sksat.kr
+하나로해운,SEA SAPPHIRE,seasapphire1@sksat.kr
+하나로해운,SEA TOPAZ,seatopaz1@sksat.kr
+하나로해운,SEN TREASURE,sentreasure@sksat.kr
+하나로해운,PHOENIX NEREID,phoenixnereid@sksat.kr
+하나로해운,SEA ORION,seaorion@sksat.kr
+한강글로벌해운,GOLDEN MAPLE,goldenmaple@sksat.kr
+한강글로벌해운,MAPLE MARINA,maple_marina@skyfile.com
+한강글로벌해운,MAPLE HARBOUR,mapleharbour@sksat.kr
+훼어선박,DONGBANG GIANT NO.1,dongbang.giant1@sea-one.com
+훼어선박,DONGBANG GIANT NO.2,dongbanggiant2@sea-one.com
+훼어선박,DONGBANG GIANT NO.5,dongbang.giant5@sea-one.com
+중앙상선,GLAD YOUNG,jaglad@sea-one.com
+중앙상선,YOUNG HARMONY,jaharmony@sea-one.com
+중앙상선,YOUNG SPIRIT,jaspirit@sea-one.com
+중앙상선,YOUNG GLORY,jaglory@sea-one.com
+중앙상선,SOUND YOUNG,jasound@sea-one.com
+,,service@vessellink.com
+더블유오션,WOOHYUN SKY,whsky@woohyunshpg.co.kr
+더블유오션,WOOHYUN GREEN,whgreen@woohyunshpg.co.kr
+더블유오션,WOOHYUN HOPE,whhope@woohyunshpg.co.kr
+더블유오션,WOOHYUN STAR,whstar@woohyunshpg.co.kr
+TMS,GNS HARMONY,gnsharmony@arionmail.com
+TMS,GNS HARVEST,gnsharvest@bluewavemail.com
+TMS,GNS HOPE,
+GFSM,THAI CHEMI,thaichemi@sea-one.com
+GFSM,ONSAN CHEMI,onsanchemi@sea-one.com
+GFSM,DAESAN CHEMI,daesanchemi@arionmail.com
+GFSM,BANGKOK CHEMI,bangkokchemi@sea-one.com
+성호해운,SH OLIVIA,sh.olivia@sea-one.com
+성호해운,SH VENUS,sh.venus@sea-one.com
+성호해운,SEONGHO ACE,s.ace@arionmail.com
+성호해운,NEW STAR,n.star@arionmail.com
+성호해운,NEW SILVER,n.silver@arionmail.com
+성호해운,NEW GLOBAL,n.global@arionmail.com
+성호해운,NEW HARMONY,n.harmony@arionmail.com
+성호해운,SEONGHO GALAXY,s.galaxy@arionmail.com
+성호해운,SEONGHO PIOCE,s.pioce@arionmail.com
+SONGA,SONGA PUMA,master.songa-puma@songaship.com
+SONGA,SONGA SAPPHIRE,master.songa-sapphire@songaship.com
+GLOVIS,GLOVIS CARDINAL,?g_cardinal@glovis.sea-one.com
+GLOVIS,GLOVIS COMPANION,?g_companion@glovis.sea-one.com
+GLOVIS,GLOVIS SILVER,g_silver@glovis.sea-one.com?
+GLOVIS,GLOVIS SONIC,?g_sonic@glovis.sea-one.com
+GLOVIS,VL BREEZE,vl_breeze@glovis.sea-one.com
+GLOVIS,GLOVIS SUNLIGHT,?g_sunlight@glovis.sea-one.com
+GLOVIS,GLOVIS SUNRISE,
+SK해운,C. GLORY,
+SK해운,C. DIGNITY,Cdignity@SkyFile.com
+SK해운,K. HOPE,Khope@SkyFile.com
+HOS,VL BRILLIANT,vl_brilliant@glovis.sea-one.com
+우림해운,WOOLIM 3,
+우림해운,WOOLIM DRAGON,
+YOUHA MARINE,CS SUMMER,CSSUMMER@sea-one.com
+YOUHA MARINE,CS BREEZE,CSBREEZE@sea-one.com
+YOUHA MARINE,CS HANA,CSHANA@sea-one.com
+PIL,KOTA ANGGUN,master.kotaanggun@orillamail.com
+PIL,KOTA AZAM,master.kotaazam@orillamail.com 
+PIL,KOTA CABAR,master.kotacabar@fleetmail.inmarsat.com
+PIL,KOTA CAHAYA,master.kotacahaya@fleetmail.inmarsat.com
+PIL,KOTA CANTIK,master.kotacantik@fleetmail.inmarsat.com
+PIL,KOTA CARUM,master.kotacarum@fleetmail.inmarsat.com
+PIL,KOTA CEMPAKA,master.kotacempaka@fleetmail.inmarsat.com
+PIL,KOTA CEPAT,master.kotacepat@fleetmail.inmarsat.com
+PIL,KOTA DAHLIA,master.kotadahlia@fleetmail.inmarsat.com 
+PIL,KOTA DUNIA,master.kotadunia@orillamail.com
+PIL,KOTA DUTA,master.kotaduta@orillamail.com
+PIL,KOTA GABUNG,kotagabung@fleetmail.inmarsat.com
+PIL,KOTA GADANG,master.kotagadang@fleetmail.inmarsat.com
+PIL,KOTA GANDING,master.kotaganding@fleetmail.inmarsat.com
+PIL,KOTA GAYA,master.kotagaya@fleetmail.inmarsat.com> 
+PIL,KOTA HAKIM,master.kotahakim@fleetmail.inmarsat.com
+PIL,KOTA HALUS,master.kotahalus@orillamail.com
+PIL,KOTA HANDAL,master.kotahandal@fleetmail.inmarsat.com
+PIL,KOTA HAPAS,master.kotahapas@fleetmail.inmarsat.com
+PIL,KOTA HARUM,master.kotaharum@orillamail.com
+PIL,KOTA HENING,master.kotahening@fleetmail.inmarsat.com
+PIL,KOTA HIDAYAH,master.kotahidayah@fleetmail.inmarsat.com
+PIL,KOTA JAYA,master.kotajaya@fleetmail.inmarsat.com
+PIL,KOTA JOHAN,master.kotajohan@fleetmail.inmarsat.com
+PIL,KOTA KAMIL,master.kotakamil@orillamail.com
+PIL,KOTA KARIM,master.kotakarim@fleetmail.inmarsat.com
+PIL,KOTA KAYA,master.kotakaya@fleetmail.inmarsat.com
+PIL,KOTA LAGU,master.kotalagu@fleetmail.inmarsat.com
+PIL,KOTA LAMBAI,master.kotalambai@orillamail.com
+PIL,KOTA LAMBANG,master.kotalambang@fleetmail.inmarsat.com
+PIL,KOTA LARIS,master.kotalaris@fleetmail.inmarsat.com
+PIL,KOTA LAWA,master.kotalawa@orillamail.com
+PIL,KOTA LAYANG,master.kotalayang@orillamail.com
+PIL,KOTA LEGIT,master.kotalegit@fleetmail.inmarsat.com
+PIL,KOTA LEKAS,master.kotalekas@fleetmail.inmarsat.com
+PIL,KOTA LEMBAH,master.kotalembah@orillamail.com
+PIL,KOTA LESTARI,master.kotalestari@fleetmail.inmarsat.com
+PIL,KOTA LIHAT,master.kotalihat@fleetmail.inmarsat.com
+PIL,KOTA LIMA,vsl_127@danaos.gr
+PIL,KOTA LOCENG,master.kotaloceng@fleetmail.inmarsat.com
+PIL,KOTA LUKIS,master.kotalukis@fleetmail.inmarsat.com
+PIL,KOTA LUMAYAN,master.kotalumayan@orillamail.com
+PIL,KOTA LUMBA,master.kotalumba@fleetmail.inmarsat.com
+PIL,KOTA MACHAN,master.kotamachan@orillamail.com
+PIL,KOTA MAKMUR,master.kotamakmur@fleetmail.inmarsat.com
+PIL,KOTA MANIS,master.kotamanis@fleetmail.inmarsat.com
+PIL,KOTA MANZANILLO,vsl_134@danaos.gr
+PIL,KOTA MEGAH,master.kotamegah@orillamail.com
+PIL,KOTA NABIL,master.kotanabil@fleetmail.inmarsat.com
+PIL,KOTA NAGA,master.kotanaga@fleetmail.inmarsat.com 
+PIL,KOTA NALURI,master.kotanaluri@fleetmail.inmarsat.com 
+PIL,KOTA NANHAI,master.kotananhai@orillamail.com 
+PIL,KOTA NASRAT,master.kotanasrat@fleetmail.inmarsat.com 
+PIL,KOTA NAZAR,master.kotanazar@fleetmail.inmarsat.com
+PIL,KOTA NAZIM,master.kotanazim@fleetmail.inmarsat.com 
+PIL,KOTA NEBULA,master.kotanebula@fleetmail.inmarsat.com
+PIL,KOTA NEKAD,master.kotanekad@orillamail.com
+PIL,KOTA NILAM,master.kotanilam@fleetmail.inmarsat.com
+PIL,KOTA NIPAH,master.kotanipah@orillamail.com 
+PIL,KOTA PAHLAWAN,master.kotapahlawan@orillamail.com
+PIL,KOTA PELANGI,master.kotapelangi@orillamail.com
+PIL,KOTA PEONY,vsl_111@danaos.gr
+PIL,KOTA PRIMROSE,vsl_112@danaos.gr
+PIL,KOTA PURI,master.kotapuri@orillamail.com
+PIL,KOTA PUSAKA,master.kotapusaka@orillamail.com
+PIL,KOTA RAHMAT,master.kotarahmat@orillamail.com
+PIL,KOTA RAJA,master.kotaraja@orillamail.com
+PIL,KOTA RAJIN,master.kotarajin@orillamail.com
+PIL,KOTA RAKAN,master.kotarakan@fleetmail.inmarsat.com
+PIL,KOTA RAKYAT,master.kotarakyat@orillamail.com
+PIL,KOTA RANCAK,master.kotarancak@orillamail.com
+PIL,KOTA RATNA,master.kotaratna@orillamail.com
+PIL,KOTA RATU,master.kotaratu@orillamail.com
+PIL,KOTA RESTU,master.kotarestu@orillamail.com
+PIL,KOTA RIA,master.kotaria@orillamail.com
+PIL,KOTA RUKUN,master.kotarukun@orillamail.com
+PIL,KOTA SABAS,master.kotasabas@fleetmail.inmarsat.com
+PIL,KOTA SAHABAT,master.kotasahabat@fleetmail.inmarsat.com
+PIL,KOTA SALAM,master.kotasalam@fleetmail.inmarsat.com
+PIL,KOTA SANTOS,vsl_132@danaos.gr
+PIL,KOTA SATRIA,master.kotasatria@orillamail.com
+PIL,KOTA SEGAR,master.kotasegar@fleetmail.inmarsat.com
+PIL,KOTA SEJARAH,master.kotasejarah@orillamail.com
+PIL,KOTA SEJATI,master.kotasejati@orillamail.com
+PIL,KOTA SELAMAT,master.kotaselamat@orillamail.com
+PIL,KOTA SEMPENA,master.kotasempena@orillamail.com
+PIL,KOTA SETIA,master.kotasetia@orillamail.com
+PIL,KOTA SINGA,master.kotasinga@orillamail.com
+PIL,KOTA SURIA,master.kotasuria@fleetmail.inmarsat.com
+PIL,KOTA TEMA,kota.tema@rclfleet.com
+PIL,KOTA TENAGA,master.kotatenaga@orillamail.com
+PIL,MATSON MAUI,master.matsonmaui@fleetmail.inmarsat.com
+PIL,SALAM MAJU,master.salammaju@orillamail.com
+PIL,SELATAN DAMAI,master.selatandamai@orillamail.com
